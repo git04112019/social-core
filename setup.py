@@ -65,7 +65,7 @@ tests_requirements = tests_requirements + requirements_all
 
 setup(
     name='social-auth-core',
-    version=read_version(),
+    version='3.1.0-orm',
     author='Matias Aguirre',
     author_email='matiasaguirre@gmail.com',
     description='Python social authentication made simple.',
